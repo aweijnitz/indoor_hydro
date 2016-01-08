@@ -85,5 +85,5 @@ using shell commands. Very straight forward and no programming required!
 
 ![Grow Tent](/images/grow_tent_front_down.jpg?raw=true "Grow Tent")
 
-![Grow Tent](/images/grow_tent_front_side.jpg?raw=true "Grow Tent")
+![Grow Tent](/images/grow_tent_side.jpg?raw=true "Grow Tent")
 
