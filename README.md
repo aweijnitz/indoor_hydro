@@ -41,7 +41,7 @@ For my grow tent, I bought [reflective mylar sheeting](http://www.hydroponics.eu
 
 ## Monitoring and Control
 Basically you just need two timers; One interval timer for the pump intervals (1min every 15min for example) and an additional 
-timer to switch on the light in the morning and then switch it off again in the evening. 18 hours on, is said to be ideal. 
+timer to switch on the light on the morning and then switch it off again in the evening. 18 hours on, is said to be ideal. 
 I currently keep the light running for 14h per day.
 
 Since I don't have an interval timer, but I own several Rasberry Pi:s, I just hooked up an electrical socket to the a RasPi and 
