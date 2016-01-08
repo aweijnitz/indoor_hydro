@@ -35,11 +35,13 @@ For my grow tent, I bought [reflective mylar sheeting](http://www.hydroponics.eu
 
 **Plants in net pots, standing in expanded clay**
 
-![grow tray](https://goo.gl/photos/6LNwHhcct1PeZJSq9 "Grow Tray")
+![grow tray](/images/grow_tray.jpg?raw=true "Grow Tray")
 
 **Grow Tent**
 
-![Grow Tent](https://goo.gl/photos/wPmphLLjxV6mLwAa8 "Grow Tent")
+![Grow Tent](/images/grow_tent_front_up.jpg?raw=true "Grow Tent")
 
-![Grow Tent](https://goo.gl/photos/fNvFaL3bJN92AYAU6 "Grow Tent")
+![Grow Tent](/images/grow_tent_front_down.jpg?raw=true "Grow Tent")
+
+![Grow Tent](/images/grow_tent_front_side.jpg?raw=true "Grow Tent")
 
