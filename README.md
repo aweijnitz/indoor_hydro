@@ -9,7 +9,7 @@ This is a write-up of my small indoor hydrponic garden. I use it to grow chilis 
 ## TL;DR
 - [Ebb & Flow technique](https://en.wikipedia.org/wiki/Ebb_and_flow) ([other simple example](http://www.hydroponics-simplified.com/ebb-and-flow-hydroponic.html))
 - DIY grow tent, based on an Ikea shelf covered in reflective mylar sheeting (pics below)
-- 125W CFL Grow light with reflector. [Like this](http://www.ebay.de/itm/Elektrox-125-W-125-Watt-Dual-ESL-CFL-Wuchs-Blute-2100K-inkl-Reflektor-/321824373773?hash=item4aee3a3c0d:g:zrcAAOSwT6pVwe4s)
+- 125W CFL Grow light with reflector. [Like this kit](http://www.ebay.de/itm/Elektrox-125-W-125-Watt-Dual-ESL-CFL-Wuchs-Blute-2100K-inkl-Reflektor-/321824373773?hash=item4aee3a3c0d:g:zrcAAOSwT6pVwe4s)
 - Nutrients: [Cellmax Hydro Grow ](http://www.hydroponics.eu/nutrients-and-additives-c-20/cellmax-s-25/cellmax-hydro-grow-2x1l-soft-water-1669.html)
 - Raspberry Pi controls pump and light using basic shell scripting and cron jobs.
 
