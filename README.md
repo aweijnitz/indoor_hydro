@@ -11,7 +11,7 @@ This is a write-up of my small indoor hydrponic garden. I use it to grow chilis 
 - DIY grow tent, based on an Ikea shelf covered in reflective mylar sheeting (pics below)
 - 125W CFL Grow light with reflector. [Like this kit](http://www.ebay.de/itm/Elektrox-125-W-125-Watt-Dual-ESL-CFL-Wuchs-Blute-2100K-inkl-Reflektor-/321824373773?hash=item4aee3a3c0d:g:zrcAAOSwT6pVwe4s)
 - Nutrients: [Cellmax Hydro Grow ](http://www.hydroponics.eu/nutrients-and-additives-c-20/cellmax-s-25/cellmax-hydro-grow-2x1l-soft-water-1669.html)
-- Raspberry Pi controls pump and light using basic shell scripting and cron jobs.
+- Raspberry Pi controls pump and light using an [EnerGenie EG-PMS2](http://www.amazon.de/gp/product/B00BAQZJ4K?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00)
 
 ## Hardware
 
@@ -40,7 +40,7 @@ For my grow tent, I bought [reflective mylar sheeting](http://www.hydroponics.eu
 
 
 ## Monitoring and Control
-Basically you just need two timers; One interval timer for the pump intervals (1min on every 15min for example) and an additional 
+Basically you just need two timers; One interval timer for the pump intervals (1min every 15min for example) and an additional 
 timer to switch on the light in the morning and then switch it off again in the evening. 18 hours on, is said to be ideal. 
 I currently keep the light running for 14h per day.
 
