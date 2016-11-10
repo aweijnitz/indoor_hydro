@@ -67,6 +67,11 @@ I went with the [EnerGenie EG-PMS2](http://www.amazon.de/gp/product/B00BAQZJ4K?p
 and it worked right out of the box. Install the packages/drivers on the Pi and then you can switch the sockets on and off 
 using shell commands. Very straight forward and no programming required!
 
+### Getting the Linux command line socket controller
+
+```
+sudo apt-get install sispmctl
+``` 
 
 ## Medium And Nutrients
 - Medium: Rockwool in net pots, with expanded clay pellets in between as filler. 
